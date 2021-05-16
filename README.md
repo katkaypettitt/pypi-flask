@@ -2,7 +2,7 @@
 
 > A fake website modelled after [PyPI.org](https://pypi.org/) made using Python, HTML, and CSS with the help of [TalkPython](https://talkpython.fm/).
 
-![PyPI Flask Website by Katrina Alaimo](https://video.wixstatic.com/video/d051dc_3991c67351ad4c2ba584f7aeda0f07fd/1080p/mp4/file.mp4)
+![PyPI Flask Website by Katrina Alaimo](https://static.wixstatic.com/media/d051dc_d5854d3eafc8444aa275516bf12b1a4e~mv2.gif)
 
 ## General info
 
