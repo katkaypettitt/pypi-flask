@@ -22,7 +22,3 @@ This Flask website can be improved by filling in additional pages (e.g. Donate p
 - Jinja2
 - HTML
 - CSS & Bootstrap
-
-## Contact
-
-Created by [@katrinaalaimo](https://www.katrinaalaimo.com/) — feel free to contact me!
